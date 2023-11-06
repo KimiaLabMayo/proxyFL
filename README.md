@@ -64,6 +64,6 @@ If you find this code useful in your research, please cite the following paper:
 - [University of Waterloo](https://uwaterloo.ca/)
 
 ### Disclaimers
-This technology is patneted [see patent](https://patents.justia.com/patent/20230153461). The code is provided for research purposes only and without any warranty. Any commercial use is prohibited.
+This technology is patneted ([see patent](https://patents.justia.com/patent/20230153461)). The code is provided for research purposes only and without any warranty. Any commercial use is prohibited.
 
 **NOTE: This repository is a clone of [ProxyFL](https://github.com/layer6ai-labs/ProxyFL) repository from [layer6](https://layer6.ai/), with additions made by Rhazes Lab**
