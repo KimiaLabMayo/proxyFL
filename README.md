@@ -64,4 +64,4 @@ If you find this code useful in your research, please cite the following paper:
 - [University of Waterloo](https://uwaterloo.ca/)
 
 ### Disclaimer
-This technology is patneted by [Layer6 AI](https://layer6.ai/). The code is provided for research purposes only and without any warranty. Any commercial use is prohibited. See [patent](https://patents.justia.com/patent/20230153461).
+This technology is patneted by [Layer6](https://layer6.ai/). The code is provided for research purposes only and without any warranty. Any commercial use is prohibited. See [patent](https://patents.justia.com/patent/20230153461).
